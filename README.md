@@ -27,13 +27,6 @@ Isso criará um arquivo random_network_anomalies.pcap, que pode ser analisado no
 wireshark random_network_anomalies.pcap
 
 
-### 📂 Estrutura do Projeto:
-
-/
-├── generate_pcap.py  # Script de geração de tráfego
-├── random_network_anomalies.pcap  # Arquivo gerado com tráfego simulado
-├── README.md  # Documentação do projeto
-
 ### 🔍 Análise no Wireshark
 Após abrir o arquivo .pcap no Wireshark, é possível:
 
